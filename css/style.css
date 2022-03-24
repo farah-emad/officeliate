@@ -1,0 +1,268 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+@font-face{
+    font-family: my-fonts;
+    src: url(../fonts/KumbhSans-Bold.ttf);
+}
+@font-face{
+    font-family: fonts;
+    src: url(../fonts/KumbhSans-Regular.ttf);
+}
+
+.container{
+    background-color: #fafafa;
+    width:100%;
+    height: auto;
+    box-sizing: border-box;
+
+   
+}
+
+.My-icons{
+    padding:30px;
+    margin: 20px;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+.header{
+  
+    font-family: my-fonts;
+    font-size: 56;
+margin-left: 20px;
+}
+.body{
+    margin-bottom: 20px;
+    font-family: fonts;
+    padding:18px 40px;
+    font-size:18px;
+   
+}
+.botton{
+    padding:18px 40px;
+    border-radius: 28px;
+    border: none;
+    color:white;
+    text-transform: capitalize;
+    margin: 20px;
+    background-color: #5175FF;
+}
+
+
+    
+    
+.plans{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+  
+   border-radius: 18px;
+}
+
+
+.plan1{
+    background-color: white;
+border-radius: 18px;
+     margin:60px;
+    padding:60px;
+}
+.basic{
+    text-align: left;
+    padding-top: 0px;
+    font-family: fonts;
+    font-size: 20px;
+    
+    text-align: center;
+}
+.cost{
+    padding-top: 30px;
+    font-family: fonts;
+    font-size: 56;
+   
+    text-align: center;
+
+}
+.price{
+    padding-top: 20px;
+    font-family: fonts;
+    font-size: 16px;
+   
+    text-align: center;
+
+}
+.doc{
+    padding-top: 63px;
+    font-family: fonts;
+    font-size: 16px;
+   
+    text-align: center;
+}
+.stotage{
+padding-top: 23px;
+font-family: fonts;
+font-size: 16px;
+
+text-align: center;
+}
+.support{
+    padding-top: 23px;
+    font-family: fonts;
+font-size: 16px;
+
+padding-bottom: 36px;
+text-align: center;
+
+}
+.free{
+    padding:18px 40px;
+    border-radius: 28px;
+    border: none;
+    background-color: white;
+    color:#5175FF;
+    margin-left: 30px;
+    
+
+}
+.plans2{
+    background-color:#FFFFFF;
+     padding:60px;
+    margin: 60px;
+   
+    border-radius: 18px;
+}
+.frees{
+    padding:18px 40px;
+    border-radius: 28px;
+    border:none;
+    background-color: #FFFFFF;
+  margin-bottom: 20px;
+  color:#5175FF;
+  margin-right: 30px;
+    
+}
+.plan3{
+   
+   background-color: #FFFFFF;
+  
+     
+       margin:60px;
+       padding:60px;
+    border-radius: 18px;
+
+}
+
+
+.freess{
+    
+    
+  padding:18px 40px;
+    border-radius: 28px;
+    border: none;
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+    color:#5175FF;
+   margin-left: 30px;
+} 
+.xxs:hover{
+    background:#5175FF; 
+    color:#FFFFFF;
+}
+
+
+.title{
+    color: #5175FF;
+    font-family: my-fonts;
+    font-size: 16px;
+    margin-left: 70px;
+}
+
+.box1{
+    margin: 30px;
+    font-family: my-fonts;
+    font-size: 56;
+    background-color: #333950;
+    padding-left: 30px ;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 18px;
+}
+.day{
+    margin-bottom: 10px;
+    font-family: my-fonts;
+    font-size: 56px;
+    color:#FFFFFF;
+}
+.days{
+    font-family: fonts;
+    font-size: 16px;
+    margin-left: 12px;
+    color: #FFFFFF;
+}
+.box2{
+    margin:30px;
+    font-family: my-fonts;
+    font-size: 56;
+    background-color: #333950;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 18px;
+}
+.box3{
+    margin:30px;
+    font-family: my-fonts;
+    font-size: 56;
+    background-color: #333950;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 18px;
+}
+.box4{
+    margin:30px;
+    font-family: my-fonts;
+    font-size: 56;
+    background-color: #333950;
+  padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;  
+    padding-bottom: 20px;
+    border-radius: 18px;
+    margin-right: 50px;
+}
+.box{
+    display: flex;
+    justify-content:flex-start;
+padding-left: 40px;
+
+}
+.botton1{
+
+    padding:18px 40px;
+    border-radius: 28px;
+    border: none;
+color: #FFFFFF;
+   background-color:#5175FF;
+   float: left; 
+   margin-top: 90px;
+ 
+   margin-left: 100px;
+} 
+.boxes{
+    display: flex;
+  
+   
+}
+
+    
+
+ 
+ 
